@@ -1,0 +1,158 @@
+transfer date,player name,position,from,to,price
+feb 24,vukasin jovanovic,defender,red star,zenit,2000000
+feb 10,roman shirokov,midfielder,spartak moscow,cska moscow,0
+feb 1,abdelhamid el kaoutari,defender,palermo,reims,loan
+feb 1,eder,attacker,swansea,lille,loan
+feb 1,hernan barcos,attacker,tianjin teda,sporting cp,3000000
+feb 1,malcom,attacker,corinthians,bordeaux,5000000
+feb 1,ole selnaes,midfielder,rosenborg,saint etienne,3000000
+feb 1,mauro arambarri,midfielder,defensor sporting,bordeaux,3000000
+feb 1,johann carrasso,goalkeeper,metz,reims,undisclosed
+feb 1,lass bangoura,attacker,rayo vallecano,reims,loan
+feb 1,marco van ginkel,midfielder,chelsea,psv eindhoven,loan
+feb 1,steven fletcher,attacker,sunderland,marseille,loan
+feb 1,mathieu debuchy,defender,arsenal,bordeaux,loan
+feb 1,colin kazim-richards,attacker,feyenoord,celtic,undisclosed
+jan 31,aleksandr kokorin,attacker,dynamo moscow,zenit,undisclosed
+jan 31,patrick roberts,midfielder,manchester city,celtic,loan
+jan 31,matias suarez,attacker,anderlecht,nantes,loan
+jan 31,yuri zhirkov,midfielder,dynamo moscow,zenit,undisclosed
+jan 31,florian thauvin,midfielder,newcastle,marseille,loan
+jan 31,jemerson,defender,atletico mineiro,monaco,10000000
+jan 29,yrondu musavu-king,defender,granada,lorient,loan
+jan 29,lindsay rose,defender,lyon,lorient,loan
+jan 28,sebastian coates,defender,sunderland,sporting cp,loan
+jan 28,renato tapia,midfielder,twente,feyenoord,2500000
+jan 27,ismael diomande,midfielder,saint etienne,caen,loan
+jan 26,josue,midfielder,porto,braga,loan
+jan 25,moussa marega,midfielder,maritimo,porto,undisclosed
+jan 25,jose sa,goalkeeper,maritimo,porto,undisclosed
+jan 23,alexis delgado,defender,getafe,besiktas,2000000
+jan 23,aras ozbiliz,midfielder,spartak moscow,besiktas,1500000
+jan 21,franck tabanou,defender,swansea,saint etienne,loan
+jan 20,denys boyko,goalkeeper,dnipro,besiktas,3300000
+jan 18,mauricio,midfielder,terek,zenit,loan
+jan 18,erik sviatchenko,defender,midtjylland,celtic,2000000
+jan 17,remi walter,midfielder,nancy,nice,1000000
+jan 15,martin linnes,defender,molde,galatasaray,2000000
+jan 15,hyun-jun suk,attacker,vitoria setubal,porto,1500000
+jan 13,ivan saponjic,attacker,partizan,benfica,1500000
+jan 13,oussama tannane,midfielder,heracles,saint etienne,1500000
+jan 11,said benrahma,attacker,nice,angers,loan
+jan 9,vagner love,attacker,corinthians,monaco,1000000
+jan 8,rony lopes,midfielder,monaco,lille,loan
+jan 8,mevlut erding,attacker,hannover,guingamp,loan
+jan 7,morgan amalfitano,midfielder,west ham,lille,0
+jan 5,alexander soderlund,attacker,rosenborg,saint etienne,1500000
+jan 5,mohamed yattara,attacker,standard liege,angers,loan
+jan 5,ryan donk,defender,kasimpasa,galatasaray,3750000
+dec 30,alejandro grimaldo,defender,barcelona,benfica,1500000
+dec 30,marvin zeegelaar,defender,rio ave,sporting lisbon,undisclosed
+dec 30,guillaume gillet,defender,anderlecht,nantes,undisclosed
+dec 8,ron vlaar,defender,aston villa,az alkmaar,0
+nov 20,ezequiel schelotto,midfielder,inter milan,sporting lisbon,0
+oct 23,carlton cole,attacker,west ham,celtic,0
+sep 2,jozo simunovic,defender,dinamo zagreb,celtic,7000000
+sep 1,miguel layun,defender,watford,porto,loan
+aug 31,jeremie boga,attacker,chelsea,rennes,loan
+aug 31,jason denayer,defender,manchester city,galatasaray,loan
+aug 31,pablo nascimento,defender,ponte preta,bordeaux,undisclosed
+aug 31,rolando,defender,porto,marseille,undisclosed
+aug 31,robert beric,attacker,rapid wien,saint etienne,4500000
+aug 31,juan quintero,midfielder,porto,rennes,loan
+aug 31,yassine benzia,attacker,lyon,lille,1000000
+aug 31,lenny nangis,attacker,caen,lille,undisclosed
+aug 31,olivier kemen,midfielder,newcastle,lyon,"700,000"
+aug 31,ricardo pereira,midfielder,porto,nice,loan
+aug 31,paolo de ceglie,defender,juventus,marseille,loan
+aug 31,mauricio isla,defender,juventus,marseille,loan
+aug 31,jesus corona,midfielder,twente,porto,10500000
+aug 30,lazar markovic,attacker,liverpool,fenerbahce,loan
+aug 30,mustapha yatabare,attacker,guingamp,montpellier,loan
+aug 30,sergi darder,midfielder,malaga,lyon,12000000
+aug 29,tyler blackett,defender,manchester utd,celtic,loan
+aug 28,eirik haugan,defender,molde,marseille,undisclosed
+aug 28,rony lopes,midfielder,manchester city,monaco,10000000
+aug 28,kevin malcuit,defender,niort,saint etienne,"500,000"
+aug 27,layvin kurzawa,defender,monaco,psg,23000000
+aug 27,lucas silva,midfielder,real madrid,marseille,loan
+aug 26,fabio coentrao,defender,real madrid,monaco,loan
+aug 26,marko marin,midfielder,chelsea,trabzonspor,loan
+aug 20,remy cabella,midfielder,newcastle,marseille,loan
+aug 15,hector moreno,defender,espanyol,psv,undisclosed
+aug 15,mapou yanga-mbiwa,defender,roma,lyon,8000000
+aug 13,raul jimenez,attacker,atletico madrid,benfica,undisclosed
+aug 13,ozan tufan,midfielder,bursaspor,fenerbahce,7000000
+aug 12,mathieu valbuena,midfielder,dynamo moscow,lyon,7000000
+aug 11,seydou doumbia,attacker,roma,cska moscow,loan
+aug 11,jean-christophe bahebeck,attacker,psg,saint etienne,loan
+aug 11,gabriel boschilia,midfielder,sao paulo,monaco,9000000
+aug 9,esteban cambiasso,midfielder,leicester,olympiakos,0
+aug 7,somalia ,midfielder,ferencvaros,toulouse,undisclosed
+aug 6,eljero elia,midfielder,werder bremen,feyenoord,0
+aug 6,jacques zoua,attacker,hamburg,ajaccio,undisclosed
+aug 5,angel di maria ,midfielder,manchester utd,psg,63000000
+aug 5,aly cissokho,defender,aston villa,porto,loan
+aug 5,dani osvaldo,attacker,southampton,porto,0
+aug 4,dominic solanke ,attacker,chelsea,vitesse arnhem,loan
+aug 3,rafael da silva,defender,manchester utd,lyon,undisclosed
+jul 31,mario gomez ,attacker,fiorentina,besiktas,loan
+jul 31,stoppila sunzu ,defender,shanghai gs,lille,loan
+jul 31,enes unal ,attacker,manchester city,genk,loan
+jul 29,abou diaby,midfielder,arsenal,marseille,0
+jul 29,stefano okaka,attacker,sampdoria,anderlecht,3000000
+jul 25,lassana diarra,midfielder,lokomotiv moscow,marseille,0
+jul 25,javier manquillo,defender,atletico madrid,marseille,loan
+jul 24,ricardo quaresma,midfielder,porto,besiktas,undisclosed
+jul 23,milan gajic,defender,ofk beograd,bordeaux,undisclosed
+jul 23,danilo pantic,midfielder,chelsea,vitesse,loan
+jul 21,benjamin stambouli,midfielder,tottenham,psg,8600000
+jul 21,nolan roux,attacker,lille,saint etienne,2000000
+jul 19,teofilo gutierrez,attacker,river plate,sporting lisbon,3500000
+jul 19,naldo,defender,udinese,sporting lisbon,2000000
+jul 18,yaya sanogo,attacker,arsenal,ajax,loan
+jul 15,gaston pereiro,midfielder,nacional montevideo,psv,undisclosed
+jul 15,maxi pereira,defender,benfica,porto,0
+jul 14,stephan el shaarawy,attacker,ac milan,monaco,loan
+jul 14,bruno uvini,defender,napoli,twente,loan
+jul 14,mauro goicoechea,goalkeeper,arouca,toulouse,undisclosed
+jul 14,robin van persie,attacker,manchester utd,fenerbahce,6600000
+jul 14,joao pereira,defender,hannover,sporting lisbon,0
+jul 13,mounir obbadi,midfielder,monaco,lille,undisclosed
+jul 12,iker casillas,goalkeeper,real madrid,porto,10000000
+jul 11,adama traore,midfielder,lille,monaco,14000000
+jul 11,helder costa,midfielder,benfica,monaco,loan
+jul 10,nadir ciftci,attacker,dundee utd,cetlic,2100000
+jul 9,logan bailly,goalkeeper,oh leuven,celtic,undisclosed
+jul 8,bryan ruiz,attacker,fulham,sporting lisbon,undisclosed
+jul 8,kevin trapp,goalkeeper,eint. frankfurt,psg,9000000
+jul 6,nani,midfielder,manchester utd,fenerbahce,6000000
+jul 6,pedro mendes,midfielder,parma,rennes,0
+jul 5,andreas beck,defender,hoffenheim,besiktas,1750000
+jul 4,lukas podolski,attacker,arsenal,galatasaray,2500000
+jul 1,lucas ocampos,midfielder,monaco,marseille,7000000
+jul 1,saidy janko,defender,manchester utd,celtic,0
+jul 1,benoit assou-ekotto,defender,tottenham,saint etienne,0
+jul 1,samuel eto'o,attacker,sampdoria,antalyaspor,0
+jul 1,gianelli imbula,midfielder,marseille,porto,20000000
+jun 30,nicolas isimat-mirin,defender,monaco,psv,undisclosed
+jun 30,karim rekik,defender,manchester city,marseille,5000000
+jun 30,zdravko kuzmanovic,midfielder,inter milan,basel,2000000
+jun 26,thomas lemar,midfielder,caen,monaco,4000000
+jun 26,marko vejinovic,midfielder,vitesse,feyenoord,undisclosed
+jun 25,john heitinga,defender,hertha,ajax,0
+jun 23,yacouba sylla,midfielder,aston villa,rennes,1500000
+jun 20,yohann pele,goalkeeper,sochaux,marseille,0
+jun 19,simon kjaer,defender,lille,fenerbahce,7700000
+jun 16,nikolai laursen,midfielder,brondby,psv,1000000
+jun 14,adel taarabt,midfielder,qpr,benfica,0
+jun 14,mehdi carcela,midfielder,standard liege,benfica,4000000
+jun 13,ludovic baal,defender,lens,rennes,0
+jun 11,radosav petrovic,midfielder,genclerbirligi,dynamo kiev,0
+jun 11,alberto bueno,attacker,rayo vallecano,porto,0
+jun 11,jeremy morel,defender,marseille,lyon,0
+jun 11,dusko tosic,defender,genclerbirligi,besiktas,0
+jun 11,jean-michael seri,midfielder,pacos ferreira,nice,undisclosed
+jun 11,hatem ben arfa,midfielder,newcastle,nice,0
+jun 11,stephane m'bia,midfielder,sevilla,trabzonspor,0
+jun 11,dedryck boyata,defender,manchester city,celtic,2000000

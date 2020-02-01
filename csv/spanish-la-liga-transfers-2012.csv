@@ -1,0 +1,88 @@
+transfer date,player name,position,from,to,price
+feb 1,casemiro,midfielder,sao paulo,real madrid,loan
+feb 1,dorlan pabon,attacker,parma,real betis,loan
+feb 1,antunes,defender,pacos ferreita,malaga,loan
+feb 1,adrian carmona,attacker,ac milan,zaragoza,loan
+jan 31,diego buonanotte,midfielder,malaga,granada,2300000
+jan 31,robert acquafresca,attacker,bologna,levante,loan
+jan 31,pedro morales,midfielder,dinamo zagreb ,malaga,loan
+jan 31,loukas vyntra,defender,panathinaikos,levante,0
+jan 31,valdet rama,midfielder,orebro,valladolid,0
+jan 31,ruben rochina,midfielder,blackburn,zaragoza,loan
+jan 31,rodri,attacker,barcelona b,zaragoza,loan
+jan 30,alan hutton,goalkeeper,aston villa,mallorca,loan
+jan 30,fernando tissone,midfielder,sampdoria,mallorca,undisclosed
+jan 30,nolito,attacker,benfica,granada,loan
+jan 30,beto,goalkeeper,sporting braga,sevilla,loan
+jan 30,federico fernandez,defender,napoli,getafe,loan
+jan 29,henri bienvenu,attacker,fenerbahce,zaragoza,loan
+jan 27,emiliano insua,defender,sporting lisbon,atletico madrid,3500000
+jan 26,diego lopez,goalkeeper,sevilla,real madrid,4500000
+jan 25,sergio escudero,defender,schalke,getafe,loan
+jan 23,diego lugano,defender,psg,malaga,loan
+jan 22,danijel pranjic,midfielder,sporting lisbon,celta vigo,loan
+jan 21,francisco silva,midfielder,uni. catolica,osasuna,loan
+jan 20,guillermo molins,midfielder,anderlecht,real betis,loan
+jan 19,carlos aranda,attacker,zaragoza,granada,"500,000"
+jan 18,jose manuel fernandez,defender,cordoba,zaragoza,loan
+jan 15,martin petrov,midfielder,bolton,espanyol ,0
+jan 15,gabriel machado,attacker,steaua,rayo vallecano,0
+jan 15,lucas piazon,attacker,chelsea,malaga,loan
+jan 11,valdo,midfielder,atlante,levante,loan
+jan 10,recio,midfielder,malaga,granada,loan
+jan 9,antonio luna,defender,sevilla,mallorca,loan
+jan 8,paulo assuncao,midfielder,sao paulo,dep. la coruna,0
+jan 8,silvio,defender,atletico madrid,dep. la coruna,loan
+jan 6,vadim demidov,defender,eintracht,celta vigo,loan
+jan 6,jordi figueras,defender,club brugge,rayo vallecano,loan
+jan 2,miroslav stevanovic,midfielder,vojvodina,sevilla,1500000
+sep 14,obafemi martins,attacker,rubin kazan,levante,0
+aug 31,giovani dos santos,attacker,tottenham,mallorca,undisclosed
+aug 31,park chu-young,attacker,arsenal,celta,loan
+aug 31,michael essien,midfielder,chelsea,real madrid,loan
+aug 31,javier saviola,attacker,benfica,malaga,undisclosed
+aug 31,roque santa cruz,attacker,manchester city,malaga,loan
+aug 31,angel lopez,defender,villarreal,real betis,0
+aug 29,damien perquis,defender,sochaux,real betis,undisclosed
+aug 28,stefan babovic,midfielder,partizan,real zaragoza,0
+aug 27,luka modric,midfielder,tottenham,real madrid,34000000
+aug 22,michael krohn-dehli,midfielder,brondby,celta,1000000
+aug 20,alex song,midfielder,arsenal,barcelona,19000000
+aug 18,alejandro dominguez,attacker,valencia,rayo vallecano,0
+aug 17,dariusz dudka,midfielder,auxerre,levante,0
+aug 17,simao sabrosa,midfielder,besiktas,espanyol,0
+aug 15,nelson valdez,attacker,rubin kazan,valencia,loan
+aug 14,theofanis gekas,attacker,samsunspor,levante,0
+aug 13,alberto botia,defender,sporting gijon,sevilla,3000000
+aug 12,christian lell,defender,hertha,levante,0
+aug 7,carlos marchena,defender,villarreal,dep. la coruna,0
+aug 4,jose angel,defender,roma,real sociedad,loan
+jul 31,nelson oliveira,attacker,benfica,dep. la coruna,loan
+jul 31,roderick miranda,defender,benfica,dep. la coruna,loan
+jul 30,patrick ebert,midfielder,hertha,valladolid,0
+jul 28,joan capdevila,defender,benfica,espanyol,"350,000"
+jul 27,romaric,midfielder,sevilla,real zaragoza,0
+jul 26,geoffrey kondogbia,midfielder,lens,sevilla,undisclosed
+jul 20,fernando gago,midfielder,real madrid,valencia,3500000
+jul 20,sergio canales,midfielder,real madrid,valencia,7500000
+jul 14,alberto rodriguez,defender,sporting lisbon,dep. la coruna,loan
+jul 12,wakaso mubarak,midfielder,villarreal,espanyol,undisclosed
+jul 5,javi varas,goalkeeper,sevilla,celta,loan
+jul 3,joel campbell,attacker,arsenal,real betis,loan
+jul 3,antonio floro flores,attacker,udinese,granada,loan
+jun 28,alban bunjaku,midfielder,arsenal,sevilla,undisclosed
+jun 28,javi hervas,midfielder,cordoba,sevilla,undisclosed
+jun 28,joan angel roman,midfielder,manchester city,barcelona,undisclosed
+jun 28,jordi alba,defender,valencia,barcelona,14000000
+jun 27,aritz aduriz,attacker,valencia,athletic bilbao,2500000
+jun 27,bryan rabello,midfielder,colo colo,sevilla,0
+jun 24,diego colotto,defender,dep. la coruna,espanyol,0
+jun 18,daniel diaz,defender,getafe,atletico madrid,1000000
+jun 6,emre belezoglu,midfielder,fenerbahce,atletico madrid,0
+jun 6,cristian rodriguez,midfielder,porto,atletico madrid,0
+jun 6,andres guardado,midfielder,dep. la coruna,valencia,0
+jun 6,angel lafita,midfielder,real zaragoza,getafe,0
+jun 6,diego lopez,goalkeeper,villarreal,sevilla,3500000
+jun 6,hedwiges maduro,defender,valencia,sevilla,0
+jun 6,joao pereira ,defender,sporting lisbon,valencia,3600000
+jun 6,jonathan viera,midfielder,las palmas,valencia,2500000

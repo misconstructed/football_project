@@ -1,0 +1,183 @@
+transfer date,player name,position,from,to,price
+feb 16,francisco junior,midfielder,benfica,everton,0
+feb 15,bruno uvini,defender,sao paulo,tottenham,loan
+feb 2,giancarlo gallifuoco,midfielder,sutherland sharks,tottenham,undisclosed
+feb 1,sebastien bassong,defender,tottenham,wolverhampton,loan
+feb 1,ryan bennett,defender,peterborough,norwich,3600000
+feb 1,marvin sordell,attacker,watford,bolton,3600000
+feb 1,steven pienaar,midfielder,tottenham,everton,loan
+feb 1,ryan nelsen,defender,blackburn,tottenham,0
+feb 1,joao carlos,midfielder,sporting lisbon,liverpool,undisclosed
+jan 31,sotirios kyrgiakos,defender,wolfsburg,sunderland,loan
+jan 31,wayne bridge,defender,manchester city,sunderland,loan
+jan 31,thomas eisfeld,midfielder,borussia dortmund,arsenal,"500,000"
+jan 31,ryo miyaichi,midfielder,arsenal,bolton,loan
+jan 31,liam ridgewell,defender,birmingham,west bromwich,3000000
+jan 31,nikica jelavic,attacker,rangers,everton,6600000
+jan 31,marcus olsson,midfielder,halmstads,blackburn,0
+jan 31,kevin de bruyne,midfielder,genk,chelsea,8000000
+jan 31,djibril cisse,attacker,lazio,qpr,5000000
+jan 31,pavel pogrebnyak,attacker,stuttgart,fulham,3600000
+jan 31,louis saha,attacker,everton,tottenham,0
+jan 31,keith andrews,midfielder,blackburn,west bromwich,0
+jan 31,bobby zamora,attacker,fulham,qpr,4800000
+jan 31,curtis obeng,defender,wrexam,swansea city,undisclosed
+jan 31,bradley orr,defender,qpr,blackburn,undisclosed
+jan 31,david pizarro,midfielder,roma,manchester city,loan
+jan 31,frederic veseli,defender,manchester city,manchester utd,undisclosed
+jan 31,patrick bamford,attacker,nottingham forest,chelsea,2000000
+jan 31,ryan williams,midfielder,portsmouth,fulham,undisclosed
+jan 29,samba diakite,midfielder,nancy,qpr,loan
+jan 26,jean beausejour,midfielder,birmingham,wigan athletic,undisclosed
+jan 26,tim ream,defender,new york red bulls,bolton,3000000
+jan 26,nedum onuoha,defender,manchester city,qpr,3000000
+jan 24,jonny howson,midfielder,leeds,norwich,undisclosed
+jan 24,taye taiwo,defender,ac milan,qpr,loan
+jan 24,papiss cisse,attacker,freiburg,newcastle,12000000
+jan 19,anthony modeste,attacker,bordeaux,blackburn,loan
+jan 18,jack grimmer,midfielder,aberdeen,fulham,"240,000"
+jan 18,lasse christensen,midfielder,fc midtjylland,fulham,undisclosed
+jan 17,josh mceachran,midfielder,chelsea,swansea city,loan
+jan 17,tim payne,attacker,waitakere united,blackburn,undisclosed
+jan 14,darron gibson,midfielder,manchester utd,everton ,undisclosed
+jan 14,gary cahill,defender,bolton,chelsea,8500000
+jan 12,robbie keane,attacker,la galaxy,aston villa,loan
+jan 11,gylfi sigurdsson,midfielder,hoffenheim,swansea city,loan
+jan 11,rory donnelly,attacker,cliftonville,swansea city,undisclosed
+jan 10,scott allan,midfielder,dundee utd,west bromwich,undisclosed
+jan 8,landon donovan,attacker,la galaxy,everton,loan
+jan 8,paul scholes,midfielder,(retirement),manchester utd,0
+jan 2,federico macheda,attacker,manchester utd,qpr,loan
+jan 2,emmanuel frimpong,midfielder,arsenal,wolverhampton,loan
+jan 2,eggert jonsson,defender,hearts,wolverhampton,undisclosed
+dec 30,thierry henry,attacker,ny red bulls,arsenal,loan
+nov 8,marc pelosi,midfielder,de anza force,liverpool,undisclosed
+oct 17,james mcfadden,attacker,birmingham,everton,0
+sep 1,bryan ruiz ,attacker,fc twente,fulham,12000000
+sep 1,darnel situ,defender,lens,swansea city,"280,000"
+sep 1,yakubu ,attacker,everton,blackburn,undisclosed
+sep 1,anton ferdinand,defender,sunderland,qpr,undisclosed
+sep 1,fede bessone,defender,leeds,swansea city,0
+sep 1,jordan slew,attacker,sheffield utd,blackburn,undisclosed
+sep 1,jason puncheon,midfielder,southampton,qpr,undisclosed
+sep 1,orlando sa ,attacker,porto,fulham,0
+aug 31, patrick van aanholt,defender,chelsea,wigan athletic,loan
+aug 31,owen hargreaves ,midfielder,manchester utd,manchester city,0
+aug 31,david ngog,attacker,liverpool,bolton,undisclosed
+aug 31,wilson palacios ,midfielder,tottenham,stoke,9000000
+aug 31,shaun maloney ,attacker,celtic,wigan athletic,1100000
+aug 31,gael kakuta ,attacker,france,bolton,loan
+aug 31,zdenek grygera,defender,juventus,fulham,0
+aug 31,andre santos,defender,fenerbahce,arsenal,6800000
+aug 31,scott parker,attacker,west ham,tottenham,5700000
+aug 31,tommaso trani ,goalkeeper,ac milan,qpr,0
+aug 31,peter crouch,attacker,tottenham,stoke ,11300000
+aug 31,cameron jerome,attacker,birmingham,stoke ,6800000
+aug 31,shaun maloney ,attacker,celtic,wigan athletic,1100000
+aug 31,jermaine jenas,midfielder,tottenham,aston villa,loan
+aug 31, alan hutton ,defender,tottenham,aston villa ,undisclosed
+aug 31,mikel arteta,midfielder,everton,arsenal,11300000
+aug 31,royston drenthe,midfielder,real madrid,everton,0
+aug 31,denis stracqualursi ,attacker,tigres,everton,loan
+aug 31,peter mertesacker ,defender,werder bremen,arsenal,9000000
+aug 31,nicklas bendtner,attacker,arsenal,sunderland,loan
+aug 31,yossi benayoun,midfielder,chelsea,arsenal,undisclosed
+aug 31,craig bellamy,attacker,manchester city,liverpool,undisclosed
+aug 31,shaun wright-phillips,midfielder,manchester city,qpr,undisclosed
+aug 31,raul meireles,midfielder,liverpool,chelsea,undislcosed
+aug 31,scott dann,defender,birmingham,blackburn,8700000
+aug 30,davide santon ,defender,inter milan,newcastle ,5500000
+aug 30,rob elliot,goalkeeper,charlton,newcastle,undisclosed
+aug 30,albert crusat,midfielder,almeria,wigan athletic,undisclosed
+aug 30,sebastian coates,defender,nacional ,liverpool,7900000
+aug 30,park chu-young,attacker,monaco,arsenal,undisclosed
+aug 30,armand traore,defender,arsenal,qpr,undisclosed
+aug 27,luke young,defender,aston villa,qpr,undisclosed
+aug 27,ulises davila ,midfielder,chivas,chelsea,undisclosed
+aug 26,joey barton,midfielder,newcastle,qpr,0
+aug 26,dedryck boyata,defender,manchester city,bolton,loan
+aug 25,emmanuel adebayor,attacker,manchester city,tottenham,loan
+aug 25,iago falque ,midfielder,juventus,tottenham,loan
+aug 24,samir nasri,midfielder,arsenal,manchester city,26000000
+aug 24,juan mata ,midfielder,valencia,chelsea,27000000
+aug 23,simon vukcevic ,midfielder,sporting lisbon,blackburn,2300000
+aug 18,romelu lukaku ,attacker,anderlecht,chelsea,20000000
+aug 16,jamie edge,midfielder,arsenal,west bromwich,0
+aug 16,daniel ayala,defender,liverpool,norwich,undisclosed
+aug 12,jose enrique ,defender,newcastle,liverpool,6800000
+aug 12,bruno ribeiro,defender,gremio,blackburn,0
+aug 12,tuncay sanli,attacker,wolfsburg,bolton,loan
+aug 11,bruno perone,defender,tombense,qpr,0
+aug 11,nouha dicko ,attacker,strasbourg,wigan athletic,0
+aug 10,brian murphy,goalkeeper,ipswich,qpr,0
+aug 9,james mcclean ,midfielder,derry city,sunderland,"400,000"
+aug 9,gabriel obertan ,midfielder,manchester utd,newcastle,3400000
+aug 9,shane long ,attacker,reading,west bromwich,5100000
+aug 9,matthew upson ,defender,west ham,stoke,0
+aug 9,jonathan woodgate,defender,tottenham,stoke,0
+aug 8,alex oxlade-chamberlain,midfielder,southampton,arsenal,17300000
+aug 6,marton fulop,goalkeeper,fulham,west bromwich,undisclosed
+aug 6,ben foster,goalkeeper,birmingham,west bromwich,loan
+aug 5,costel pantilimon,goalkeeper,poli timisoara,manchestery city,3400000
+aug 4,dj campbell ,attacker,blackpool,qpr,undisclosed
+aug 4,wayne routledge,midfielder,newcastle,swansea city ,2300000
+aug 3,leroy lita,attacker,middlesbrough,swansea city,2000000
+aug 2,zoltan gera ,midfielder,fulham,west bromwich,0
+aug 2,david jones,midfielder,wolverhamption,wigan athletic,0
+jul 29,charles nzogbia,midfielder,wigan athletic,aston villa,10800000
+jul 27,sergio aguero,attacker,atletico madrid,manchester city,45000000
+jul 25,pajtim kasami,midfielder,palermo,fulham,undisclosed
+jul 25,danny gabbidon,defender,west ham,qpr,0
+jul 23,oriol romeu,midfielder,barcelona,chelsea,5000000
+jul 22,thibaut courtois,goalkeeper,genk,chelsea,9000000
+jul 21,kyle naughton ,defender,tottenham,norwich,loan
+jul 20,marcel gecov ,midfielder,slovan liberec,fulham,undisclosed
+jul 18,shay given ,goalkeeper,manchester city,aston villa,undisclosed
+jul 18,souleymane coulibaly,attacker,siena,tottenham,1700000
+jul 17,joel campbell,attacker,deporivo saprissa,arsenal,1100000
+jul 15,stewart downing,midfielder,aston villa,liverpool,22500000
+jul 15,alexander doni,goalkeeper,roma,liverpool,0
+jul 13,roger johnson ,defender,birmingham,wolverhampton,undisclosed
+jul 13,john arne riise ,defender,roma,fulham,undisclosed
+jul 13,kieron dyer,midfielder,west ham,qpr ,undisclosed
+jul 13,jay bothroyd ,attacker,cardiff,qpr,0
+jul 11,gervinho,attacker,lille,arsenal,undisclosed
+jul 11,cristian ceballos,midfielder,barcelona,tottenham,undisclosed
+jul 8,charlie adam ,midfielder,blackpool,liverpool ,undisclosed
+jul 8,david vaughan ,midfielder,blackpool,sunderland,0
+jul 8, csaba somogyi ,goalkeeper,rakospalotai,fulham,undisclosed
+jul 7,anthony pilkington,midfielder,huddersfield,norwich,2200000
+jul 7,elliott bennett,midfielder,brighton,norwich,undisclosed
+jul 7,wes brown,defender,manchester utd,sunderland,undisclosed
+jul 7,john oshea,defender,manchester utd,sunderland,undisclosed
+jul 6,stefan savic,defender,partizan belgrade,manchester city,undisclosed
+jul 4,gael clichy,defender,arsenal,manchester city,7800000
+jul 4,ali al habsi ,goalkeeper,bolton,wigan athletic,4400000
+jul 4,eric dier ,defender,sporting lisbon,everton,loan
+jul 3,myles anderson,defender,aberdeen,blackburn,0
+jul 3,roarie deacon,attacker,arsenal,sunderland,0
+jul 1,keiren westwood,goalkeeper,coventry,sunderland,0
+jul 1,fabiano santacroce,defender,napoli,parma,loan
+jun 30,ji dong-won,attacker,chunnam dragons,sunderland,undisclosed
+jun 30,craig gardner,midfielder,birmingham,sunderland,6600000
+jun 29,connor wickham,attacker,ipswich,sunderland,8900000
+jun 29,david de gea,goalkeeper,atletico madrid,manchester utd,19000000
+jun 23,ashley young,attacker,aston villa,manchester utd,18000000
+jun 22,dorus de vries ,goalkeeper,swansea,wolverhampton,0
+jun 22,sebastian larsson,midfielder,birmingham,sunderland,0
+jun 21,jamie ohara,midfielder,tottenham,wolverhampton,5600000
+jun 18,sylvain marveaux,midfielder,rennes,newcastle,0
+jun 17,danny graham,attacker,watford,swansea city,4000000
+jun 17,demba ba,attacker,west ham,newcastle,0
+jun 17,ritchie de laet,defender,manchester utd,norwich,loan
+jun 13,phil jones,defender,blackburn,manchester utd,18700000
+jun 10,yohan cabaye,midfielder,lille,newcastle,4800000
+jun 9,jordan henderson ,midfielder,sunderland,liverpool,22500000
+jun 8,carl jenkinson,defender,charlton,arsenal,undisclosed
+jun 7,steve morison,attacker,everton,norwich,undisclosed
+jun 7,james vaughan ,attacker,everton,norwich,undisclosed
+jun 7,mehdi abeid,midfielder,lens,newcastle,0
+jun 4,tom donegan,midfielder,everton,fulham,undisclosed
+jun 3,gareth mcauley,defender,ipswich,west bromwich,0
+jun 3,billy jones,defender,preston,west bromwich,0
+jun 3,brad friedel,goalkeeper,aston villa,tottenham,0

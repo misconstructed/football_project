@@ -1,0 +1,173 @@
+transfer date,player name,position,from,to,price
+feb 7,louis saha,attacker,sunderland,lazio,0
+jan 31,mcdonald mariga,midfielder,inter milan,parma,loan
+jan 31,rolando,defender,porto,napoli,loan
+jan 31,diego fabbrini,attacker,udinese,palermo,undisclosed
+jan 31,jonathas,attacker,pescara,torino,loan
+jan 31,mattia cassani,defender,fiorentina,genoa,loan
+jan 31,mateo kovacic,midfielder,dinamo zagreb ,inter milan,11000000
+jan 31,zdravko kuzmanovic,midfielder,stuttgart,inter milan,2000000
+jan 31,matias cabrera,defender,nacional,cagliari,undisclosed
+jan 31,daniele portanova,defender,bologna,genoa,undisclosed
+jan 31,bruno pereirinha,midfielder,sporting lisbon,lazio,0
+jan 31,franco brienza,attacker,palermo,atalanta,undisclosed
+jan 31,davide moscardelli,attacker,chievo,bologna,undisclosed
+jan 31,francesco acerbi,defender,genoa,chievo,loan
+jan 31,bartosz salamon,defender,brescia,ac milan,undisclosed
+jan 31,christian terlizzi,defender,pescara,siena,undisclosed
+jan 31,mohamed sissoko,midfielder,psg,fiorentina,loan
+jan 31,josip radosevic,midfielder,hajduk split,napoli,3000000
+jan 31,marco rigoni,midfielder,chievo,genoa,loan
+jan 30,mario sampirisi,defender,genoa,chievo,loan
+jan 30,lionel scaloni,defender,lazio,atalanta,undisclosed
+jan 30,naldo,defender,granada,bologna,loan
+jan 30,alejandro faurlin,midfielder,qpr,palermo,loan
+jan 30,matias rodriguez,midfielder,universidad chile,sampdoria,undisclosed
+jan 30,nikolaos spyropoulos,defender,panathinaikos,chievo,undisclosed
+jan 30,mario balotelli,attacker,manchester city,ac milan,22000000
+jan 30,andrea coda,defender,udinese,parma,loan
+jan 30,mauricio sperduti,attacker,newell\'s old boys,palermo,undisclosed
+jan 30,nicolas anelka,attacker,shanghai shenhua,juventus,loan
+jan 29,samir ujkani,goalkeeper,palermo,chievo,loan
+jan 28,jose cevallos,midfielder,ldu quito,juventus,loan
+jan 27,mauro boselli,attacker,wigan,palermo,loan
+jan 26,marvin compper,defender,hoffenheim,fiorentina,"200,000"
+jan 26,rafal wolski,midfielder,legia warsaw,fiorentina,2800000
+jan 25,stefano sorrentino,goalkeeper,chievo,palermo,4000000
+jan 25,cristian zaccardo,defender,parma,ac milan,swap
+jan 25,rodney strasser,midfielder,ac milan,parma,loan
+jan 25,djamel mesbah,defender,ac milan,parma,swap
+jan 23,salvador agra,attacker,real betis,siena,loan
+jan 23,vasilis torosidis,defender,olympiakos,roma,"500,000"
+jan 23,innocent emeghara,attacker,lorient,siena,loan
+jan 23,felipe seymour,midfielder,genoa,chievo,loan
+jan 22,igor budan,attacker,palermo,atalanta,loan
+jan 19,marcelo larrondo,attacker,siena,fiorentina,loan
+jan 19,nicola pozzi,attacker,sampdoria,siena,loan
+jan 19,ruben olivera,midfielder,fiorentina,genoa,loan
+jan 18,paulo barreto,attacker,udinese,torino,1800000
+jan 17,matias campos,midfielder,granada,udinese,undisclosed
+jan 14,luigi giorgi,midfielder,novara,atalanta,loan
+jan 13,emanuele calaio,attacker,siena,napoli,loan
+jan 11,andrea dossena,defender,napoli,palermo,loan
+jan 9,pablo armero,defender,udinese,napoli,loan
+jan 5,giuseppe rossi,attacker,villarreal,fiorentina,9500000
+jan 4,tommaso rocchi,attacker,lazio,inter milan,undisclosed
+jan 3,federico peluso,defender,atalanta,juventus,loan
+dec 30,matuzalem,midfielder,lazio,genoa,loan
+dec 30,antonio floro flores,attacker,udinese,genoa,undisclosed
+dec 30,salvatore aronica,defender,napoli,palermo,undisclosed
+dec 30,alexander merkel,midfielder,genoa,udinese,undisclosed
+sep 14,marco marchionni,midfielder,fiorentina,parma,0
+sep 3,mbaye niang,attacker,caen,ac milan,3000000
+sep 1,ze eduardo,attacker,genoa,siena,loan
+sep 1,alessandro rosina,attacker,zenit,siena,0
+sep 1,mathias ranegie,attacker,malmo,udinese,2000000
+aug 31,giulio migliaccio,midfielder,palermo,fiorentina,loan
+aug 31,giandomenico mesto,midfielder,genoa,napoli,undisclosed
+aug 31,andrea lazzari,midfielder,fiorentina,udinese,loan
+aug 31,bruno uvini,defender,sao paulo,napoli,undisclosed
+aug 31,nigel de jong,midfielder,manchester city,ac milan,5000000
+aug 31,enzo maresca,midfielder,malaga,sampdoria,undisclosed
+aug 31,juan vargas,midfielder,fiorentina,genoa,loan
+aug 31,nicklas bendtner,attacker,arsenal,juventus,loan
+aug 31,luca toni,attacker,al nasr,fiorentina,0
+aug 31,marco borriello,attacker,roma,genoa,undisclosed
+aug 31,cristian llama,defender,catania,fiorentina,loan
+aug 31,nenad tomovic,defender,genoa,fiorentina,undisclosed
+aug 31,stefan savic,defender,manchester city,fiorentina,undisclosed
+aug 31,alberto gilardino,attacker,genoa,bologna,undisclosed
+aug 30,michele pazienza,midfielder,juventus,bologna,undisclosed
+aug 30,davide biondini,midfielder,genoa,atalanta,loan
+aug 29,rubinho,goalkeeper,palermo,juventus,0
+aug 29,bojan krkic,attacker,roma,ac milan,loan
+aug 27,michael ciani,defender,bordeaux,lazio,4000000
+aug 26,simon poulsen,defender,az alkmaar,sampdoria,0
+aug 25,omar el kaddouri,midfielder,brescia,napoli,undisclosed
+aug 24,alvaro pereira,midfielder,porto,inter milan,15000000
+aug 23,walter gargano,midfielder,napoli,inter milan,loan
+aug 23,alessio cerci,attacker,fiorentina,torino,undisclosed
+aug 23,alexis rolin,defender,nacional montevideo,catania,5000000
+aug 22,marquinhos,defender,corinthians,roma,loan
+aug 22,antonio cassano,attacker,ac milan,inter milan,undisclosed
+aug 22,giampaolo pazzini,attacker,inter milan,ac milan,undisclosed
+aug 21,steve von bergen,defender,genoa,palermo,undisclosed
+aug 20,stefano okaka,attacker,roma,parma,undisclosed
+aug 20,yohan benalouane,defender,cesena,parma,loan
+aug 19,marcelo estigarribia,midfielder,deportivo maldonado,sampdoria,loan
+aug 12,matteo brighi,midfielder,roma,torino,loan
+aug 10,david pizarro,midfielder,roma,fiorentina,0
+aug 10,richmond boakye,attacker,genoa,juventus,4000000
+aug 9,cristian zapata,defender,villarreal,ac milan,loan
+aug 8,aleandro rosi,defender,roma ,parma,0
+aug 5,vladimir weiss,attacker,manchester city,pescara,undisclosed
+aug 4,paul pogba,midfielder,manchester utd,juventus,0
+aug 3,alberto aquilani,midfielder,liverpool,fiorentina,7000000
+aug 2,borja valero,midfielder,villarreal,fiorentina,7000000
+aug 2,federico balzaretti,defender,palermo,roma,4500000
+aug 2,ivan piris,defender,deportivo maldonado,roma,loan
+aug 1,emiliano viviano,goalkeeper,palermo,fiorentina,loan
+aug 1,francesco della rocca,midfielder,palermo,fiorentina,loan
+jul 31,mattia destro,attacker,genoa,roma,loan
+jul 27,matias fernandez,midfielder,sporting lisbon,fiorentina,3000000
+jul 24,marco rigoni,midfielder,novara,chievo,loan
+jul 23,juan cuadrado,midfielder,udinese,fiorentina,loan
+jul 22,marco motta,defender,juventus,bologna,loan
+jul 21,massimo paci,defender,novara,siena,undisclosed
+jul 20,panagiotis tachtsidis,midfielder,genoa,roma,2500000
+jul 20,damiano ferronetti,defender,udinese,torino,0
+jul 20,lucas castro,midfielder,racing club,catania,2900000
+jul 20,paulo dybala,attacker,instituto,palermo,12000000
+jul 20,gaby mudingayi,midfielder,bologna,inter milan,loan
+jul 19,leandro castan,defender,corinthians,roma,5000000
+jul 17,lorenzo de silvestri,defender,fiorentina,sampdoria,loan
+jul 17,valon behrami,midfielder,fiorentina,napoli,undisclosed
+jul 17,alessandro gamberini,defender,fiorentina,napoli,undisclosed
+jul 16,michael bradley,midfielder,chievo,roma,3750000
+jul 14,ignacio fideleff,defender,napoli,parma,loan
+jul 14,cristiano lupatelli,goalkeeper,genoa,fiorentina,0
+jul 13,reginaldo maicosuel,midfielder,botafogo,udinese,undisclosed
+jul 13,michele canini,defender,cagliari,genoa,2500000
+jul 13,jonathan lucca,midfielder,internacional,roma,"700,000"
+jul 13,david di michele,attacker,lecce,chievo,0
+jul 13,mario alberto santana,midfielder,napoli,torino,loan
+jul 12,facundo roncaglia,defender,boca juniors,fiorentina,0
+jul 11,maxi lopez,attacker,catania,sampdoria,loan
+jul 11,steve von bergen,defender,cesena,genoa,0
+jul 11,mounir el hamdaoui,attacker,ajax,fiorentina,undisclosed
+jul 9,egidio arevalo rios,midfielder,tijuana,palermo,3000000
+jul 9,anselmo de moraes,midfielder,palmeiras,genoa,undisclosed
+jul 6,samir handanovic,goalkeeper,udinese,inter milan,11000000
+jul 6,matias silvestre,defender,palermo,inter milan,loan
+jul 5,tomas svedkauskas,goalkeeper,suduva,roma,undisclosed
+jul 5,adrian stoian,midfielder,bari,roma,1200000
+jul 4,allan marques loureiro,midfielder,vasco da gama,udinese,undisclosed
+jul 4,wojciech pawlowski,goalkeeper,lechia gdansk,udinese ,undisclosed
+jul 4,dodo,defender,corinthians,roma,0
+jul 4,lucio,defender,inter milan,juventus,0
+jul 3,amauri,attacker,fiorentina,parma,0
+jul 3,nicola leali,goalkeeper,brescia,juventus,undisclosed
+jul 2,marquinho,midfielder,fluminense,roma,3500000
+jul 2,mauricio isla,midfielder,udinese,juventus,9400000
+jul 2,kwadwo asamoah,midfielder,udinese,juventus,9000000
+jul 2,ederson,midfielder,lyon,lazio,0
+jul 2,cristian pasquato,attacker,juventus,udinese,1500000
+jun 30,ishak belfodil,attacker,lyon,parma,2500000
+jun 28,dorlan pabon,attacker,atletico nacional,parma,undisclosed
+jun 21,kevin constant,midfielder,genoa,ac milan,loan
+jun 21,francesco acerbi,defender,genoa,ac milan,undisclosed
+jun 20,sebastian giovinco,attacker,parma,juventus,11000000
+jun 20,amidu salifu,midfielder,fiorentina,catania,loan
+jun 19,emanuele giaccherini,midfielder,cesena,juventus,4250000
+jun 8,willians domingos,midfielder,flamengo,udinese,undisclosed
+jun 7,marti riverola,goalkeeper,barcelona,bologna,0
+jun 6,thomas heurtaux,defender,caen,udinese,2000000
+jun 6,rodrigo palacio,attacker,genoa,inter milan,11000000
+jun 6,bakaye traore,midfielder,nancy,ac milan,0
+jun 6,franco brienza,attacker,siena,palermo,undisclosed
+jun 6,martin caceres,defender,sevilla,juventus,8000000
+jun 6,goran pandev,attacker,inter milan,napoli,7500000
+jun 6,fredy guarin,midfielder,porto,inter milan,11000000
+jun 6,paul papp,defender,vaslui,chievo,undisclosed
+jun 6,ahmed hegazy,defender,ismaily,fiorentina,1500000
+jun 6,ricardo montolivo,midfielder,fiorentina,ac milan,0

@@ -1,0 +1,90 @@
+transfer date,player name,position,from,to,price
+feb 1,varela,sporting,recreativo,loan,feb 1
+zahinos,atletico madrid,recreativo,n/a,feb 1,pongolle
+liverpool,recreativo,4000000,feb 1,martins,sporting
+recreativo,n/a,feb 1,barbosa,villarreal,recreativo
+free,feb 1,coltorti,grasshopper,santander,n/a
+feb 1,smolarek,dortmund,santander,7000000,feb 1
+kone,psv,sevilla,n/a,feb 1,m. de sanctis
+udinese,sevilla,n/a,feb 1,kerzakhov,zenit st petersburg
+sevilla,5000000,feb 1,keita,lens,sevilla
+n/a,feb 1,boulahrouz,chelsea,sevilla,loan
+feb 1,fran merida,arsenal,real sociedad,loan,feb 1
+w. sneijder,ajax,real madrid,27000000,feb 1,a. robben
+chelsea,real madrid,36200000,feb 1,c. metzelder,b. dortmund
+real madrid,n/a,feb 1,w. lima,atletico mineiro,real betis
+3000000,feb 1,r. pereira,sporting lisbon,real betis,3000000
+feb 1,danny szetela,columbus c.,r. santander,n/a,feb 1
+dudek,liverpool,real madrid,free,feb 1,g. heinze
+manchester utd,real madrid,12000000,feb 1,r. drenthe,feyenoord
+real madrid,14000000,feb 1,pepe,porto,real madrid
+28000000,feb 1,marcelo,fluminense,real madrid,7000000
+feb 1,j. saviola,barcelona,real madrid,free,feb 1
+mosquera,pachuca,sevilla,7400000,feb 1,t. de mul
+ajax,sevilla,n/a,feb 1,diogo,real madrid
+zaragoza,4500000,feb 1,gabi,atletico madrid,zaragoza
+9000000,feb 1,d'alessandro,wolfsburg,zaragoza,n/a
+feb 1,tomasson,stuttgart,villarreal,n/a,feb 1
+r. ayala,valencia,villarreal,free,feb 1,luccin
+atletico madrid,zaragoza,n/a,feb 1,matuzalem,shakhtar d.
+zaragoza,free,feb 1,pavon,real madrid,zaragoza
+n/a,feb 1,vallejo,villarreal,zaragoza,0
+feb 1,paredes,getafe,zaragoza,n/a,feb 1
+oliveira,milan,zaragoza,loan,feb 1,nery
+corinthians,zaragoza,loan,feb 1,mavuba,bordeaux
+villarreal,8000000,feb 1,godin,nacional,villarreal
+n/a,feb 1,helguera,real madrid,valencia,n/a
+feb 1,hildebrand,stuttgart,valencia,free,feb 1
+h. maduro,ajax,valencia,n/a,feb 1,fernandes
+benfica,valencia,16000000,feb 1,arizmendi,atletico madrid
+valencia,n/a,feb 1,zigic,santander,valencia
+20000000,feb 1,camacho,levante,valladolid,loan
+feb 1,g rossi,manchester utd,villarreal,n/a,feb 1
+cazorla,recreativo,villarreal,1200000,feb 1,caceres
+defensor,villarreal,free,feb 1,estoyanoff,levante
+valladolid,loan,feb 1,a. duscher,deportivo,r. santander
+free,feb 1,portillo,tarragona,osasuna,n/a
+feb 1,t. motta,barcelona,atletico madrid,2000000,feb 1
+e. abidal,lyon,barcelona,15000000,feb 1,simao
+benfica,atletico madrid,20000000,feb 1,s. sabrosa,benfica
+atletico madrid,20000000,feb 1,l. garcia,liverpool,atletico madrid
+6000000,feb 1,g. milito,real zaragoza,barcelona,22400000
+feb 1,jm pinto,celta vigo,barcelona,loan,feb 1
+vargas,psg,betis,loan,feb 1,areias
+porto,celta vigo,loan,feb 1,samoza,villarreal
+betis,loan,feb 1,y. toure,monaco,barcelona
+9000000,feb 1,t. henry,arsenal,barcelona,23800000
+feb 1,j. a. reyes,arsenal,atletico madrid,10000000,feb 1
+garcia r,osasuna,atletico madrid,13000000,feb 1,natalio
+castellon,almeria,n/a,feb 1,d. lopez,osasuna
+athletic bilbao,8000000,feb 1,j. ortiz,p. ejido,almeria
+n/a,feb 1,f. melo,r. santander,almeria,n/a
+feb 1,dos santos,bayern munich,almeria,loan,feb 1
+del horno,valencia,athletic bilbao,loan,feb 1,g. iraizoz
+espanyol,athletic bilbao,4600000,feb 1,diego,braga
+atletico madrid,3000000,feb 1,d. forlan,villarreal,atletico madrid
+21000000,feb 1,c. santana,santos,atletico madrid,n/a
+feb 1,c. abbiati,milan,atletico madrid,loan,feb 1
+c. wilhelmsson,nantes,deportivo,loan,feb 1,guardado
+atlas,deportivo,7000000,feb 1,lozano,betis
+levante,loan,feb 1,savio,sociedad,levante
+n/a,feb 1,kujovic,roda,levante,n/a
+feb 1,geijo,xerez,levante,n/a,feb 1
+cirillo,aek athens,levante,n/a,feb 1,viqueira
+recreativo,levante,n/a,feb 1,castro,nacional
+mallorca,n/a,feb 1,pandiani,espanyol,osasuna
+n/a,feb 1,plasil,monaco,osasuna,2500000
+feb 1,margairaz,zurich,osasuna,n/a,feb 1
+carlos vela,arsenal,osasuna,loan,feb 1,trejo
+boca juniors,mallorca,n/a,feb 1,castedo,sevilla
+levante,n/a,feb 1,arveladze,az alkmaar,levante
+n/a,feb 1,braulio,atletico madrid,getafe,loan
+feb 1,diaz,boca juniors,getafe,4000000,feb 1
+blanco,sevilla,getafe,3000000,feb 1,alvarez
+recreativo,getafe,n/a,feb 1,chica,junior teams
+espanyol,n/a,feb 1,hernandez,valencia,getafe
+loan,feb 1,k. blanco,sevilla,getafe,n/a
+feb 1,verpakovskis,dynamo kiev,getafe,loan,feb 1
+utsari,independiente,getafe,6000000,feb 1,signorino
+nantes,getafe,1500000,feb 1,pallardo,valencia
+getafe,loan,feb 1,a.l. rekarte,r. sociedad,almeria

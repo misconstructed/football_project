@@ -1,0 +1,88 @@
+transfer date,player name,position,from,to,price
+jan 31,ludovic obraniak,midfielder,bordeaux,werder bremen,2000000
+jan 31,milos jojic,midfielder,partizan belgrade,bor. dortmund,2200000
+jan 31,jose campana,midfielder,crystal palace,nuremberg,loan
+jan 30,andres guardado,midfielder,valencia,bayer leverkusen,loan
+jan 30,frantisek rajtoral,defender,viktoria plzen,hannover,loan
+jan 30,carlos gruezo,midfielder,barcelona sc,stuttgart,undisclosed
+jan 20,koo ja-cheol,midfielder,wolfsburg,mainz,3000000
+jan 18,kevin de bruyne,midfielder,chelsea,wolfsburg,17500000
+jan 18,ouasim bouy,midfielder,juventus,hamburg,loan
+jan 17,ola john,attacker,benfica,hamburg,loan
+jan 16,ji dong-won,attacker,sunderland,augsburg,undisclosed
+jan 11,artjoms rudnevs,attacker,hamburg,hannover,loan
+jan 9,ondrej petrak,midfielder,slavia prague,nuremberg,1000000
+jan 8,tobias weis,midfielder,hoffenheim,eint. frankfurt,loan
+jan 7,dario kresic,goalkeeper,lokomotiv moscow,mainz,0
+jan 6,mitsuro marouka,midfielder,cerezo osaka,bor. dortmund,loan
+jan 5,julian brandt,midfielder,wolfsburg,bayer leverkusen,undisclosed
+jan 4,todor nedelev,attacker,botev plovdiv,mainz,undisclosed
+jan 3,alexander madlung,defender,wolfsburg,eint. frankfurt,0
+jan 1,jan kirchhoff,defender,bayern munich,schalke,loan
+nov 21,manuel friedrich,defender,bayer leverkusen,bor. dortmund,0
+sep 2,karim haggui,defender,hannover,stuttgart,undisclosed
+sep 2,per skjelbred,midfielder,hamburg,hertha,loan
+sep 2,tranquillo barnetta,midfielder,schalke,eint. frankfurt,loan
+sep 2,pierre-michel lasogga,attacker,hertha,hamburg,loan
+sep 1,makoto hasebe,midfielder,wolfsburg,nuremberg,2500000
+sep 1,santigo garcia,defender,palermo,werder bremen,loan
+aug 31,eren derdiyok,attacker,bayer leverkusen,hoffenheim,loan
+aug 30,kevin-prince boateng,midfielder,ac milan,schalke,12000000
+aug 29,vladimir darida,midfielder,viktoria plzen,freiburg,4000000
+aug 29,dennis aogo,defender,hamburg,schalke,loan
+aug 22,karim bellarabi,midfielder,bayer leverkusen,braunschweig,loan
+aug 20,vaclav kadlec,attacker,sparta prague,eint. frankfurt,undisclosed
+aug 16,luiz gustavo,midfielder,bayern munich,wolfsburg,15000000
+aug 15,raul bobadilla,attacker,basel,augsburg,undisclosed
+aug 14,franco di santo,attacker,wigan,werder bremen,0
+aug 11,marcelo,defender,psv eindhoven,hannover,2500000
+aug 2,emre can,midfielder,bayern munich,bayer leverkusen,5000000
+jul 18,park jo-hoo,defender,basel,mainz,undisclosed
+jul 14,thiago alcantara,midfielder,barcelona,bayern munich,25000000
+jul 12,roberto hilbert,defender,besiktas,bayer leverkusen,0
+jul 12,lasse sobiech,defender,bor. dortmund,hamburg,undisclosed
+jul 10,simeon jackson,attacker,norwich,braunschweig,0
+jul 10,admir mehmedi,attacker,dynamo kiev,freiburg,loan
+jul 9,anthony modeste,attacker,bordeaux,hoffenheim,3000000
+jul 8,henrikh mkhitaryan,midfielder,shakhtar donetsk,bor. dortmund,27500000
+jul 8,dani schahin,attacker,fortuna dusseldorf,mainz,2000000
+jul 7,josip drmic,attacker,zurich,nuremberg,3000000
+jul 5,francis coquelin,midfielder,arsenal,freiburg,loan
+jul 4,daniel schwaab,defender,bayer leverkusen,stuttgart,0
+jul 4,jan kirchhoff,defender,mainz,bayern munich,0
+jul 4,daniel ginczek,attacker,bor. dortmund,nuremberg,undisclosed
+jul 4,konstantinos stafylidis,defender,paok,bayer leverkusen,undisclosed
+jul 4,marco rojas,midfielder,melbourne victory,stuttgart,0
+jul 4,pierre aubameyang,attacker,saint etienne,bor. dortmund,13000000
+jul 4,martin angha,defender,arsenal,nuremberg,0
+jul 4,konstantin rausch,midfielder,hannover,stuttgart,0
+jul 2,joselu,attacker,hoffenheim,eint. frankfurt,loan
+jul 2,leon goretzka,midfielder,bochum,schalke,undisclosed
+jul 2,raphael holzhauser,midfielder,stuttgart,augsburg,loan
+jul 2,emanuel pogatetz,defender,wolfsburg,nuremberg,undisclosed
+jul 1, halil altintop,attacker,trabzonspor,augsburg,0
+jul 1,johan djourou ,defender,arsenal,hamburg,loan
+jun 29,stephan schrock ,midfielder,hoffenheim,eint. frankfurt,undisclosed
+jun 28,adam szalai ,attacker,mainz,schalke,8000000
+jun 28,gelson fernandes,midfielder,sporting lisbon,freiburg,"290,000"
+jun 28,emir spahic,defender,sevilla,bayer leverkusen,undisclosed
+jun 28,timm klose,defender,nuremberg,wolfsburg,6000000
+jun 26,luca caldirola ,defender,inter milan,werder bremen,3000000
+jun 26,shinji okazaki,attacker,vfb stuttgart,mainz,undisclosed
+jun 26,jacques zoua,attacker,basle,hamburg,undisclosed
+jun 21,giulio donati,defender,inter milan,bayer leverkusen,3000000
+jun 21,raffael,attacker,dynamo kiev,bor. mgladbach,5000000
+jun 19,leonardo bittencourt,midfielder,bor. dortmund,hannover,3000000
+jun 15,heung-min son,attacker,hamburg,bayer leverkusen,10000000
+jun 14,mohammed abdellaoue,attacker,hannover,stuttgart,3500000
+jun 4,nils petersen,attacker,bayern munich,werder bremen,3000000
+jun 4,max kruse,attacker,freiburg,bor. mgladbach,2500000
+jun 4,daniel caligiuri,midfielder,freiburg,wolfsburg,2500000
+jun 3,andres palop,goalkeeper,sevilla,bayer leverkusen,0
+jun 3,salif sane,defender,nancy,hannover,undisclosed
+jun 1,hajime hosogai,defender,bayer leverkusen,hertha,1000000
+jun 1,sokratis papastathopoulos,defender,werder bremen,bor. dortmund,9500000
+jun 1,felipe santana,defender,bor. dortmund,schalke,1000000
+jun 1,mike hanke,attacker,bor. mgladbach,freiburg,0
+jun 1,cedric makiadi,midfielder,freiburg,werder bremen,3000000
+jun 1,mario gotze,midfielder,bor. dortmund,bayern munich,37000000

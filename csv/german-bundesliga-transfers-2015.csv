@@ -1,0 +1,102 @@
+transfer date,player name,position,from,to,price
+feb 1,felix platte,attacker,schalke,darmstadt,loan
+feb 1,federico barba,defender,empoli,stuttgart,loan
+feb 1,milos veljkovic,defender,tottenham,werder bremen,"650,000"
+feb 1,josip drmic,attacker,bor. mgladbach,hamburg,loan
+feb 1,serdar tasci,defender,spartak moscow,bayern munich,loan
+feb 1,alexander milosevic,defender,besiktas,hannover,loan
+feb 1,anis ben-hatira,midfielder,hertha,eint. frankfurt,loan
+feb 1,yanni regasel,defender,hertha,eint. frankfurt,undisclosed
+feb 1,nabil bahoui,attacker,al-ahli,hamburg,0
+feb 1,alfred finnbogason,attacker,real sociedad,augsburg,loan
+jan 31,emil berggreen,attacker,braunschweig,mainz,2500000
+jan 29,bruno henrique,attacker,goias ec,wolfsburg,4000000
+jan 29,sambou yatabare,midfielder,olympiacos,wolfsburg,2500000
+jan 28,gerhard tremmel,goalkeeper,swansea,werder bremen,loan
+jan 25,giulio donati,defender,bayer leverkusen,mainz,undisclosed
+jan 21,papy djilobodji,defender,chelsea,werder bremen,loan
+jan 21,andrej kramaric,attacker,leicester,hoffenheim,loan
+jan 20,laszlo kleinheisler,midfielder,videoton,werder bremen,"300,000"
+jan 17,hugo almeida,attacker,anzhi,hannover,0
+jan 14,dario lezcano,attacker,luzern,ingolstadt,3000000
+jan 8,martin hinteregger,defender,salzburg,bor. mgladbach,loan
+jan 8,albian ajeti,attacker,basel,augsburg,undisclosed
+jan 8,marius wolf,attacker,1860 munich,hannover,1000000
+jan 7,kevin grosskreutz,midfielder,galatasaray,stuttgart,2100000
+jan 7,alessandro schopf,midfielder,nurnberg,schalke,6000000
+jan 7,sinan kurt,attacker,bayern,hertha,undisclosed
+jan 6,karim onisiwo,attacker,sv mattersburg,mainz,0
+jan 6,younes belhanda,midfielder,dynamo kiev,schalke,loan
+jan 5,hotaru yamaguchi,midfielder,cerezo osaka,hannover,undisclosed
+jan 5,filip mladenovic,defender,bate borisov,koln,1500000
+jan 5,adam szalai,attacker,hoffenheim,hannover,loan
+jan 3,kaan ayhan,defender,schalke,eint. frankfurt,loan
+dec 31,szabolcs huszti,midfielder,changchun yatai,eint. frankfurt,undisclosed
+dec 30,marco fabian,midfielder,guadalajara,eint. frankfurt,3700000
+dec 30,jonas hofmann,midfielder,bor. dortmund,bor. mgladbach,8000000
+sep 7,claudio pizarro,attacker,bayern,werder bremen,0
+aug 31,ismail azzaoui,midfielder,tottenham,wolfsburg,undisclosed
+aug 31,koo ja-cheol,midfielder,mainz,augsburg,5000000
+aug 31,javier hernandez,attacker,manchester utd,bayer leverkusen,13000000
+aug 31,jhon cordoba,attacker,granada,mainz,loan
+aug 31,adnan januzaj,midfielder,manchester utd,bor. dortmund,loan
+aug 31,julian draxler,midfielder,schalke,wolfsburg,35000000
+aug 30,dante,defender,bayern,wolfsburg,4000000
+aug 30,vedad ibisevic,attacker,stuttgart,hertha,undisclosed
+aug 30,kingsley coman,attacker,juventus,bayern,loan
+aug 30,gaetan bussmann,defender,metz,mainz,undisclosed
+aug 29,park jo-hoo,defender,mainz,bor. dortmund,undisclosed
+aug 28,kevin kampl,midfielder,bor. dortmund,bayer leverkusen,10000000
+aug 28,pierre-emile hojbjerg,midfielder,bayern,schalke,loan
+aug 27,toni sunjic,defender,kuban,stuttgart,undisclosed
+aug 25,eduardo vargas,attacker,napoli,hoffenheim,undisclosed
+aug 19,nico schulz,midfielder,hertha,bor. mgladbach,3000000
+aug 13,charles aranguiz,midfielder,internacional,bayer leverkusen,11300000
+aug 13,daniel opare,defender,porto,augsburg,0
+aug 12,mijat gacinovic,midfielder,vojvodina,eint. frankfurt,1500000
+aug 5,aron johannsson,attacker,az alkmaar,werder bremen,undisclosed
+aug 5,philipp max,defender,karlsruher,augsburg,3600000
+aug 3,allan saint-maximin,midfielder,monaco,hannover,loan
+aug 3,lukas hradecky,goalkeeper,brondby,eint. frankfurt,2000000
+jul 29,arturo vidal,midfielder,juventus,bayern,37000000
+jul 26,franco di santo,attacker,werder bremen,schalke,6000000
+jul 23,sascha riether,defender,freiburg,schalke,undisclosed
+jul 23,carlos ascues,defender,melgar arequipa,wolfsburg,undisclosed
+jul 22,francisco rodriguez,midfielder,zurich,wolfsburg,1600000
+jul 18,vladimir darida,midfielder,freiburg,hertha,undisclosed
+jul 18,albin ekdal,midfielder,cagliari,hamburg,4500000
+jul 18,mevlut erding,attacker,saint etienne,hannover,3500000
+jul 16,jonathan tah,defender,hamburg,leverkusen,10000000
+jul 14,leonardo bittencourt,midfielder,hannover,koln,undisclosed
+jul 11,frederik sorensen,defender,juventus,koln,2500000
+jul 11,emiliano insua,defender,atletico madrid,stuttgart,undisclosed
+jul 10,andreas christensen,defender,chelsea,bor. mgladbach,loan
+jul 6,batuhan altintas,attacker,bursaspor,hamburg,undisclosed
+jul 6,milos jojic,midfielder,bor. dortmund,koln,3000000
+jul 5,emir spahic,defender,bayer leverkusen,hamburg,0
+jul 1,douglas costa,midfielder,shakhtar donetsk,bayern,30000000
+jul 1,lewis holtby,midfielder,tottenham,hamburg,undisclosed
+jun 30,maximilian beister,midfielder,hamburg,mainz,0
+jun 30,mitchell langerak,goalkeeper,bor. dortmund,stuttgart,4000000
+jun 30,jan kliment,midfielder,jihlava,stuttgart,undisclosed
+jun 25,junior caicara,defender,ludogorets,schalke,4500000
+jun 24,nico elvedi,defender,zurich,bor. mgladbach,undisclosed
+jun 24,przemyslaw tyton,goalkeeper,psv,stuttgart,0
+jun 24,lukas rupp,midfielder,paderborn,stuttgart,0
+jun 23,johannes geis,midfielder,mainz,schalke,10000000
+jun 23,philipp hosiner,attacker,rennes,koln,loan
+jun 23,mandela egbo,defender,crystal palace,bor. mgladbach,undisclosed
+jun 16,sven ulreich,goalkeeper,stuttgart,bayern,3000000
+jun 14,admir mehmedi,attacker,freiburg,leverkusen,6000000
+jun 11,philip heise,defender,heidenheim,stuttgart,undisclosed
+jun 11,joshua kimmich,midfielder,stuttgart,bayern,7000000
+jun 11,lars stindl,midfielder,hannover,bor. mgladbach,3000000
+jun 11,thorgan hazard,midfielder,chelsea,bor. mgladbach,8000000
+jun 11,andre ramalho,defender,salzburg,leverkusen,0
+jun 11,matija nastasic,defender,manchester city,schalke,9500000
+jun 11,julian weigl,midfielder,1860 munich,bor. dortmund,undisclosed
+jun 11,max kruse,attacker,bor. mgladbach,wolfsburg,12000000
+jun 11,joelinton,attacker,recife,hoffenheim,undisclosed
+jun 11,kyriakos papadopoulos,defender,schalke,leverkusen,6500000
+jun 11,gonzalo castro,midfielder,leverkusen,bor. dortmund,11000000
+jun 11,tobias sippel,goalkeeper,kaiserslautern,bor. mgladbach,0

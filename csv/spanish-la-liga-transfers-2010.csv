@@ -1,0 +1,105 @@
+transfer date,player name,position,from,to,price
+jan 31,jose sand,attacker,al-ain,deportivo,loan
+jan 31,paolo da silva ,defender,sunderland,real zaragoza,undisclosed
+jan 31,william ferreira ,attacker,bolivar,real valladolid,loan
+jan 31,sofiane feghouli,midfielder,valencia,almeria,loan
+jan 31,xisco,attacker,newcastle ,deportivo,loan
+jan 31,giovani dos santos,midfielder,tottenham,racing santander,loan
+jan 29,sofiane feghouli,midfielder,valencia,almeria,loan
+jan 28, ivan rakitic ,midfielder,schalke,sevilla,1500000
+jan 26,emmanuel adebayor,attacker,manchester city,real madrid,loan
+jan 25,guirane n daw,midfielder,st etienne,real zaragaoza,undisclosed
+jan 20,ferran corominas,attacker,espanyol,osasuna,loan
+jan 18,juanito,midfielder,malaga,almeria,0
+jan 15,diego buonanotte,midfielder,river plate,malaga,4500000
+jan 15,alvaro cejudo,midfielder,las palmas,osasuna,"240,000"
+jan 15,sebastian dubarbier,midfielder,fc lorient,tenerife,loan
+jan 14,cicinho,defender,roma,villarreal,loan
+jan 13,juanfran torres ,midfielder,osasuna,atletico madrid,4500000
+jan 13,wellington,midfielder,arsenal,levante,loan
+jan 3,andre castro,midfielder,porto,sporting gijon,loan
+jan 3,adil rami,defender,lille,valencia,undisclosed
+dec 30,elias mendes,midfielder,corinthians,atletico madrid ,7000000
+dec 30,enzo maresca,midfielder,olympiakos,malaga,0
+dec 30,vadim demidov,defender,rosenborg,real sociedad,0
+dec 29,julio baptista,attacker,roma,malaga,2000000
+dec 29,martin demichelis,defender,bayern munich,malaga,undisclosed
+dec 29,ignacio camacho,midfielder,atletico madrid,malaga,1500000
+dec 29,sergio asenjo,goalkeeper,atletico madrid,malaga,loan
+dec 25,ibrahim afellay,midfielder,psv,barcelona,3500000
+sep 1,royston drenthe ,midfielder,real madrid,hercules,loan
+sep 1,felipe caicedo,attacker,manchester city,levante,loan
+sep 1,miguel lopes,defender,porto,real betis,loan
+sep 1,kris stadsgaard,defender,rosenborg,malaga,0
+sep 1,ruben martinez,defender,cartagena,malaga,"600,000"
+sep 1,pablo osvaldo,attacker,bologna,espanyol,5000000
+aug 31,marius stankevicius,defender,sampdoria,valencia,undisclosed
+aug 31,sinama pongolle,attacker,sporting lisbon,real zaragoza,loan
+aug 31,martin caceres,defender,barcelona,sevilla ,loan
+aug 31,markus rosenberg,attacker,werder bremen,racing santander,loan
+aug 31,pablo pintos,defender,lazio,getafe,undisclosed
+aug 30,david trezeguet,attacker,juventus,hercules,0
+aug 30,javier mascherano,midfielder,liverpool,barcelona,20000000
+aug 30,aldo duscher,midfielder,sevilla,espanyol,0
+aug 28,fernando cavenaghi,attacker, bordeaux,real mallorca,loan
+aug 26,alexis ruano,defender,valencia,sevilla,5000000
+aug 26,piet velthuizen,defender,vitesse,hercules,"500,000"
+aug 26,mohamed sarr,attacker, standard liege,hercules,0
+aug 26,adam pinter ,defender,mtk budapest,real zaragoza,0
+aug 18,mesut ozil,midfielder,werder bremen,real madrid,16000000
+aug 18,nelson valdez,attacker,borussia dortmund,hercules,undisclosed
+aug 16,quincy owusu-abeyie,attacker,al-sadd ,malaga,0
+aug 16,diego ifran,attacker,danubio,real sociedad,1500000
+aug 16,tiago mendes,midfielder,juventus,atletico madrid,loan
+aug 11,ricardo carvalho,defender,chelsea,real madrid,8000000
+aug 9,nicolas bertolo,midfielder,palermo,real zaragoza,loan
+aug 5, diego godin,defender,villarreal,atletico madrid,8000000
+aug 2, carlos marchena,defender,valencia,villarreal,undisclosed
+aug 2,raul tamudo,attacker,espanyol,real sociedad,0
+jul 31,sami khedira,midfielder,stuttgart,real madrid,14000000
+jul 29,sebastian fernandez,attacker,banfield,malaga,2500000
+jul 28,henrique,defender,barcelona,racing santander,loan
+jul 28,jonathan de guzman,midfielder,feyenoord,real mallorca,0
+jul 26,filipe,defender,dep. la coruna,atletico madrid,13500000
+jul 19,sandro silva,midfielder,palmeiras,malaga,0
+jul 19,jose s. rondon,attacker,las palmas,malaga,1000000
+jul 19,leo franco,goalkeeper,galatasaray ,real zaragoza,0
+jul 16,adriano correia ,midfielder,sevilla,barcelona,9500000
+jul 16,javier malagueño,defender,indios,malaga,2000000
+jul 16,aritz aduriz,attacker,real mallorca,valencia,4000000
+jul 14,pedro leon,midfielder,getafe,real madrid,undisclosed
+jul 13,marco perez,attacker,boyaca chico,real zaragoza,loan
+jul 9,jesus datolo ,midfielder,napoli,espanyol,loan
+jul 6,leo franco,goalkeeper,galatasaray,real zaragoza,fee
+jul 6,kennedy bakircioglü,midfielder,kayserispor,racing santander,0
+jul 6,marc valiente,defender,sevilla,valladolid,0
+jul 4,michael jakobsen,defender,aalborg,almeria,undisclosed
+jul 3,eliseu pereira,midfielder,lazio,malaga,"500,000"
+jun 28,angel di maria ,midfielder,benfica,real madrid,25000000
+jun 28,vadim demidov,defender,rosenborg,real sociedad,undisclosed
+jun 28,dejan lekic,attacker,red star,osasuna,2500000
+jun 22,tiberio guarente,midfielder,atalanta,sevilla ,5000000
+jun 22,yves desmarets,defender,vitoria s.c.,deportivo,0
+jun 22,asier riesgo,goalkeeper,real sociedad,osasuna,0
+jun 22,leonardo ulloa,attacker,castellon,almeria,undisclosed
+jun 22,jonathan urretavizcaya,midfielder,benfica,deportivo,loan
+jun 22,joseba llorente,attacker,villarreal,real sociedad,2500000
+jun 17,tiberio guarente,midfielder,atalanta,sevilla,undisclosed
+jun 10,roberto soldado ,attacker,getafe,valencia,10000000
+jun 8, mario suarez,midfielder,real mallorca,atletico madrid,1800000
+jun 8,ivan marcano,defender,villarreal,getafe,loan
+jun 3,gastón sangoy,attacker,apollon limassol,sporting gijon,1000000
+jun 3,mehmet topal,midfielder,galatasaray,valencia,4200000
+jun 3,fran merida,midfielder,arsenal,atletico madrid,0
+jun 3,mikel san jose,defender,liverpool,athletic bilbao,2750000
+jun 3,ricardo costa,defender,wolfsburg,valencia,0
+jun 3,sofiane feghouli,midfielder,grenoble,valencia,0
+jun 3,nacho novo,attacker,rangers,sporting gijon,0
+jun 3, míchel herrero,midfielder,valencia,deportivo ,loan
+jun 3,fernando soriano,midfielder,almeria,osasuna,0
+jun 3,mouhamadou dabo,midfielder,saint etienne,sevilla,0
+jun 3,ayoze garcía,midfielder,tenerife ,sporting gijon,0
+jun 3,borja fernández,midfielder,valladolid,getafe,0
+jun 3,domingo cisma,defender,almeria,racing santander,0
+jun 3,francis,defender,xerez,racing santander,0
+jun 2,david villa,attacker,valencia,barcelona,40000000
